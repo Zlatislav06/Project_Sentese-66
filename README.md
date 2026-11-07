@@ -13,8 +13,14 @@
 * **Алгоритми и структури:** Използване на `std::vector` за ръцете на играчите и `std::stack` / `std::queue` за управление на тестето с карти.
 * **Предотвратяване на уязвимости:** Защита от неоторизиран достъп до паметта и липса на memory leaks при динамично създаване на игрови сесии.
 
-## 💻 Как изглежда играта (Скрийншот)
-*(Тук можеш да прикачиш една снимка/скрийншот от конзолата, показваща текущата ръка, коза и резултата)*
+## 💻 Как изглежда играта (Скрийншоти)
+<img width="1357" height="192" alt="image" src="https://github.com/user-attachments/assets/3907e2be-3c4b-49d5-8c48-a565e87ace6d" />
+<img width="1358" height="147" alt="image" src="https://github.com/user-attachments/assets/0be99975-7d81-4ea6-b9d2-26cf64969be2" />
+<img width="1352" height="113" alt="image" src="https://github.com/user-attachments/assets/f054c9ba-dcfc-49f1-ae98-f52998e5a5a8" />
+<img width="1355" height="407" alt="image" src="https://github.com/user-attachments/assets/442d0460-beed-4a47-a141-27d18bdbcaee" />
+
+
+
 
 ## ⚙️ Как се стартира
 1. Клонирайте репозиторито.
